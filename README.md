@@ -12,7 +12,7 @@ or
 yarn add scrollmagic-with-ssr
 ```
 
-###Author
+### Author
 
 Edvinas pranka
 
