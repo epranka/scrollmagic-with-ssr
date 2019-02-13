@@ -1,0 +1,29 @@
+{
+    "name": "scrollmagic-with-ssr",
+    "version": "1.0.1",
+    "description": "ScrollMagic module with SSR compatibility",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/epranka/scrollmagic-with-ssr.git"
+    },
+    "keywords": [
+        "scrollmagic",
+        "ssr"
+    ],
+    "author": "Edvinas Pranka (@epranka, https://www.kodmina.lt)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/epranka/scrollmagic-with-ssr/issues"
+    },
+    "homepage": "https://github.com/epranka/scrollmagic-with-ssr#readme",
+    "peerDependencies": {
+        "scrollmagic": "^2.0.6"
+    },
+    "dependencies": {
+        "is-client": "0.0.2"
+    }
+}
