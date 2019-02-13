@@ -1,6 +1,6 @@
 {
     "name": "scrollmagic-with-ssr",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "ScrollMagic module with SSR compatibility",
     "main": "index.js",
     "scripts": {
